@@ -44,15 +44,15 @@ This project is an AI-driven dashboard designed to analyze student feedback and 
 - Personalized faculty improvement plans
 - Real-time feedback system
 
----
+DASHBOARD
+<img width="1233" height="698" alt="image" src="https://github.com/user-attachments/assets/8ed6a082-c41b-4698-a48b-0d54ef74a9b3" />
+
 
 ## 👩‍💻 Developed By
 - TRIVENI S MASTI
 
 ---
 
-## 📅 Project Status
-🔄 Ongoing (Updates will be added soon)
 
 ---
 
