@@ -47,6 +47,7 @@ This project is an AI-driven dashboard designed to analyze student feedback and 
 DASHBOARD
 <img width="1233" height="698" alt="image" src="https://github.com/user-attachments/assets/8ed6a082-c41b-4698-a48b-0d54ef74a9b3" />
 
+<img width="1234" height="659" alt="image" src="https://github.com/user-attachments/assets/dac10601-52f9-4103-a41c-c1b90279cb5b" />
 
 ## 👩‍💻 Developed By
 - TRIVENI S MASTI
